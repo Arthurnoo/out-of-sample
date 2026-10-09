@@ -14,6 +14,7 @@ defines its own functions, and runs top to bottom with no setup from you.
 | `formulas-in-practice.ipynb` | Do quants use the formulas you were taught? | [Colab](https://colab.research.google.com/github/Arthurnoo/out-of-sample/blob/main/notebooks/formulas-in-practice.ipynb) | [VS Code](https://vscode.dev/github/Arthurnoo/out-of-sample/blob/main/notebooks/formulas-in-practice.ipynb) |
 | `kitchen-sink.ipynb` | What happens if you put every variable in? | [Colab](https://colab.research.google.com/github/Arthurnoo/out-of-sample/blob/main/notebooks/kitchen-sink.ipynb) | [VS Code](https://vscode.dev/github/Arthurnoo/out-of-sample/blob/main/notebooks/kitchen-sink.ipynb) |
 | `covariance.ipynb` | How many correlations can you estimate? | [Colab](https://colab.research.google.com/github/Arthurnoo/out-of-sample/blob/main/notebooks/covariance.ipynb) | [VS Code](https://vscode.dev/github/Arthurnoo/out-of-sample/blob/main/notebooks/covariance.ipynb) |
+| `how-much-history.ipynb` | How much history should you use? | [Colab](https://colab.research.google.com/github/Arthurnoo/out-of-sample/blob/main/notebooks/how-much-history.ipynb) | [VS Code](https://vscode.dev/github/Arthurnoo/out-of-sample/blob/main/notebooks/how-much-history.ipynb) |
 
 **In your browser, with nothing to install.** Click a Colab link above, then
 Runtime, Run all.
